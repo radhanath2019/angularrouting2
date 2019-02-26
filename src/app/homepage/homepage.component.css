@@ -1,0 +1,71 @@
+
+  .img-responsive{
+      max-width: 100%;
+  }
+  img{
+      max-width: 100%;
+  }
+
+  .loginbutton{
+
+    
+  }
+
+  
+  .welocme-txt{
+      font-size: 40px;
+      font-weight: bold;
+      background-color:white;
+      color: red;
+      text-align: center;
+      vertical-align: middle
+  }
+
+  .span1{
+      text-align: center;
+      font-weight: bold;
+      font-size: 40px;
+      color:greenyellow;
+      font-family: sans-serif;
+  }
+  
+  .right-text{
+    font-size: 40px;
+      font-weight: bold;
+      text-align: center;
+      vertical-align: middle
+  }
+  .text-big{
+      text-align: center;
+       
+      color: #fff;
+      
+  }
+  .bg-txt{
+      background-color: red;
+  }
+  h1{
+    font-weight: bold;
+      font-size: 40px;
+      font-family: sans-serif;
+  }
+  p{
+      font-size: 18px;
+      font-family: initial;
+    font-weight: 400;
+  }
+  .fa{
+      font-size: 24px;
+      font-weight: bold;
+      color: red;
+      vertical-align:middle;
+
+  }
+   p{
+       line-height: 30px;
+    }
+   h4{
+       color: orangered;
+       font-weight: bold;
+   }
+    
